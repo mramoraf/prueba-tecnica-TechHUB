@@ -96,7 +96,7 @@ prueba-tecnica_TechHUB/
 
 ```bash
 git clone https://github.com/mramoraf/prueba-tecnica-TechHUB.git
-cd prueba_tecnica_TechHUB
+cd prueba-tecnica-TechHUB
 ```
 
 ### 2. Instalar las dependencias
