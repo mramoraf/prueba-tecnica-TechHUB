@@ -70,7 +70,7 @@ El análisis compara los años **2023, 2024, 2025 y 2026**, según los registros
 ## Estructura del repositorio
 
 ```text
-prueba-tecnica/
+prueba-tecnica_TechHUB/
 │
 ├── datos/
 │   ├── electricidad_para_panel.xlsx
@@ -95,8 +95,8 @@ prueba-tecnica/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
-cd <NOMBRE_DEL_REPOSITORIO>
+git clone https://github.com/mramoraf/prueba-tecnica-TechHUB.git
+cd prueba_tecnica_TechHUB
 ```
 
 ### 2. Instalar las dependencias
