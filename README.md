@@ -77,8 +77,8 @@ prueba-tecnica/
 │   └── electricidad.db
 │
 ├── docs/
-│   └── figures/
-│       └── demanda_superior_800.png
+│   └── images/
+│       └── bar_chart_cover.png
 │
 ├── notebooks/
 │   └── Prueba_individual_plantilla.ipynb
